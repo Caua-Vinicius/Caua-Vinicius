@@ -1,7 +1,7 @@
 ### Hi there, I am Cauã Vinicius 👋
 
 - 🔭 I’m currently working on improve my skills on programation
-- 🌱 I’m currently learning HTML, CSS and Data Science in Python
+- 🌱 I’m currently learning JavaScript, POO and Data Science
 
 <div>
   <a href=https://github.com/Caua-Vinicius>
