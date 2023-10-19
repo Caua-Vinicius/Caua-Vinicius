@@ -1,8 +1,8 @@
 ### Hi there, I am Cauã Vinicius 👋
 
 - 🔭 I’m currently working on improve my skills on programation
-- 🌱 I’m currently learning JavaScript, POO and Data Science
-
+- 🌱 I’m currently learning algorithms for Machine Learning and Django
+  
 <div>
   <a href=https://github.com/Caua-Vinicius>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caua-Vinicius&show_icons=true&theme=dark&include_all_commits=True"/>
