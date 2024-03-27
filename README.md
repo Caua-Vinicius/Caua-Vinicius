@@ -1,7 +1,8 @@
 ### Hi there, I am Cauã Vinicius 👋
 
-- 🔭 I’m currently working on improve my skills on programation
-- 🌱 I’m currently learning algorithms for Machine Learning and Django
+- Im a Fullstack software engineer!
+- Working on develop my backend Skills in Django and NodeJs
+  
   
 <div>
   <a href=https://github.com/Caua-Vinicius>
@@ -13,6 +14,7 @@
   <img align=center alt = "Python" height="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
   <img align=center alt = "HTML" height="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align=center alt = "CSS" height="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align=center alt = "Node" height="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
           
 </div>
  
