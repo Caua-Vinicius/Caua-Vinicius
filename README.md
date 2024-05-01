@@ -1,13 +1,12 @@
 ### Hi there, I am Cauã Vinicius 👋
 
 - Im a Fullstack software engineer!
-- Working on develop my backend Skills in Django and NodeJs
+- Working on develop my backend Skills in .NET and NodeJs
   
   
 <div>
   <a href=https://github.com/Caua-Vinicius>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caua-Vinicius&show_icons=true&theme=dark&include_all_commits=True"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caua-Vinicius&layout=compact&theme=dark"/>
 </div>
 
 <div style="diplay: inline_block"><br>
